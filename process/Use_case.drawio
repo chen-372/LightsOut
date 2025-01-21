@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="AfnXnMAowyRYGxtjWtBC" name="第 1 页">
+        <mxGraphModel dx="479" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="399" y="330" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="240" width="160" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-3" value="set level" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-4" value="click buttons" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-5" value="reset level" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rrrPNBEBxf9FuQAlWoXE-1" target="rrrPNBEBxf9FuQAlWoXE-3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="360" as="sourcePoint"/>
+                        <mxPoint x="470" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="rrrPNBEBxf9FuQAlWoXE-4" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="350" as="sourcePoint"/>
+                        <mxPoint x="510" y="290.0000000000001" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rrrPNBEBxf9FuQAlWoXE-1" target="rrrPNBEBxf9FuQAlWoXE-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="368.2352941176471" as="sourcePoint"/>
+                        <mxPoint x="509.99999999999966" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="rrrPNBEBxf9FuQAlWoXE-9" value="the light out game" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="505" y="210" width="110" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
